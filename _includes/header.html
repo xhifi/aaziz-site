@@ -10,7 +10,7 @@
         {% assign navbar = site.data.navigation.list %}
         <ul class="align-items-center">
           {% for item in navbar %}
-          <li class="{% if item.subfolderitems %}drop-down{% endif %} {% if item.url == page.url %}active{% endif %}"><a href="{{item.url}}">{{ item.title }}</a>
+          <li class="{% if item.subfolderitems %}drop-down{% endif %} {% if page.url == item.url %}active{% endif %}"><a href="{{item.url}}">{{ item.title }}</a>
             {% if item.subfolderitems %}
             <ul>
               {% for entry in item.subfolderitems %}
