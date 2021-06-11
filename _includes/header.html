@@ -1,0 +1,32 @@
+  <!-- ======= Header ======= -->
+  <header id="header" class="fixed-top py-1">
+    <div class="container d-flex align-items-center">
+
+      <!-- <h1 class="logo mr-auto"><a href="index.html">Green</a></h1> -->
+      <!-- Uncomment below if you prefer to use an image logo -->
+      <a href="index.html" class="logo mr-auto"><img src="{{site.baseurl}}assets/logo/aaziz.svg" alt="" class="img-fluid"></a>
+
+      <nav class="nav-menu d-none d-lg-block">
+        {% assign navbar = site.data.navigation.list %}
+        <ul class="align-items-center">
+          {% for item in navbar %}
+          <li class="{% if item.subfolderitems %}drop-down{% endif %} {% if item.url == page.url %}active{% endif %}"><a href="{{item.url}}">{{ item.title }}</a>
+            {% if item.subfolderitems %}
+            <ul>
+              {% for entry in item.subfolderitems %}
+              <li class=""><a href="javascript:;">{{ entry.page }}</a>
+              {% endfor %}
+              </li>
+            </ul>
+            {% endif %}
+          </li>
+          {% endfor %}
+          <li>
+            <a href="https://www.picktime.com/aazizandco" class="btn btn-md bg-red text-white">Book a Meeting</a></li>
+        </ul>
+        
+      </nav><!-- .nav-menu -->
+
+
+    </div>
+  </header><!-- End Header -->
