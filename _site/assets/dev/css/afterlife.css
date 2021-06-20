@@ -68,6 +68,7 @@
 .slick-cta{
     list-style-type: none;
     color: white;
+    padding-left: 0;
 }
 .slick-cta-norm{
     list-style-type: none;
@@ -213,4 +214,20 @@ height: 100%;
 }
 .mobile-nav-toggle{
     top: 10px;
+}
+.carousel-item:nth-child(1){
+    background: rgb(255,0,0);
+    background: linear-gradient(235deg, rgba(196,0,0,1) 0%, rgba(155,0,0,1) 100%);
+}
+.carousel-item:nth-child(2){
+    background: rgb(255,0,0);
+    background: linear-gradient(115deg, rgba(196,0,0,1) 0%, rgba(155,0,0,1) 100%);
+}
+.carousel-item:nth-child(3){
+    background: rgb(255,0,0);
+    background: linear-gradient(45deg, rgba(196,0,0,1) 0%, rgba(155,0,0,1) 100%);
+}
+.carousel-item:nth-child(4){
+    background: rgb(255,0,0);
+    background: linear-gradient(325deg, rgba(196,0,0,1) 0%, rgba(155,0,0,1) 100%);
 }
