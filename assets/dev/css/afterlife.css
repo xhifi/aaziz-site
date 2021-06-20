@@ -81,11 +81,13 @@
 .slick-card{
     border-left: 1px white solid;
     /* border: 1px white solid; */
-    border-radius: 4px;
+    border-radius: 0px;
     padding-top: 50px;
 }
 @media (max-width: 768px) {
-    
+    .slick-card{
+        border-left: 0;
+    }
 }
 .slick-hero{
     padding-top: 123px;
@@ -228,6 +230,22 @@ height: 100%;
     background: linear-gradient(45deg, rgba(196,0,0,1) 0%, rgba(155,0,0,1) 100%);
 }
 .carousel-item:nth-child(4){
+    background: rgb(255,0,0);
+    background: linear-gradient(325deg, rgba(196,0,0,1) 0%, rgba(155,0,0,1) 100%);
+}
+.carousel-item:nth-child(5){
+    background: rgb(255,0,0);
+    background: linear-gradient(235deg, rgba(196,0,0,1) 0%, rgba(155,0,0,1) 100%);
+}
+.carousel-item:nth-child(6){
+    background: rgb(255,0,0);
+    background: linear-gradient(115deg, rgba(196,0,0,1) 0%, rgba(155,0,0,1) 100%);
+}
+.carousel-item:nth-child(7){
+    background: rgb(255,0,0);
+    background: linear-gradient(45deg, rgba(196,0,0,1) 0%, rgba(155,0,0,1) 100%);
+}
+.carousel-item:nth-child(8){
     background: rgb(255,0,0);
     background: linear-gradient(325deg, rgba(196,0,0,1) 0%, rgba(155,0,0,1) 100%);
 }
