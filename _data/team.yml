@@ -15,14 +15,14 @@
 
 - name: Saba Zaki
   image: assets/dev/img/team/saba-zaki.png
-  designation: Accounts Manager
+  designation: Line Supervisor
   facebook: 
   twitter: 
   linkedin: 
 
 - name: Hassam Ali
   image: assets/dev/img/team/hassam-ali.png
-  designation: Self Assessment / Payroll / Accounts Manager
+  designation: Supervisor
   facebook: 
   twitter: 
   linkedin: 
@@ -72,6 +72,13 @@
 - name: Mirza Awais
   image: assets/dev/img/team/random.png
   designation: Marketing Assistant
+  facebook: 
+  twitter: 
+  linkedin: 
+
+- name: Izbah Aslam
+  image: assets/dev/img/team/random.png
+  designation: HR Assistant
   facebook: 
   twitter: 
   linkedin: 
