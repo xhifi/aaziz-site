@@ -3,17 +3,19 @@
     padding-inline-start: 0;
 }
 .slick-ul > li > a{
-    color: white;
+    color: black ;
 }
 .slick-ul > li > a:hover{
-    color: red;
+    color: #9b0000 ;
 }
 .slick-form{
     width: 100%;
     box-sizing: border-box;
     margin-bottom: 10px !important;
 }
-
+.footer-links > h4{
+    color: #9b0000;
+}
 #footer p{
     margin: 0 0 20px 0;
 }
