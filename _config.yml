@@ -1,14 +1,17 @@
 # site settings
-site: AAziz & Co. Accountants and Tax Consultants
+title: AAziz & Co. Accountants and Tax Consultants
 email: info@aazizandco.co.uk
 secondary_email: staff@aazizandco.co.uk
 description: This is official jekyll template for bootstrap 5 by Brianloggers.
-phone: +44 203 6599 254
 socials:
-  facebook: facebook.com/aaziz
+  phone: +44 203 6599 254
   whatsapp: +44 781 0448 530
-  instagram:
-  twitter:
+  facebook: AAzizandco
+  instagram: aazizandco_uk
+  twitter: AazizTax
+  gmb: aazizandco
+  youtube: 
+  trustpilot: AAziz
   soundcloud:
   spotify:
 address:

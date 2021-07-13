@@ -12,8 +12,8 @@
               London Sw16 5N<br>
               United Kingdom
               <br><br>
-              <strong>Phone:</strong> <a href="tel:+442036599254">+44 20 3659 9254</a> <br><strong>Mobile</strong><a href="tel:+447810448530">+44 78 1044 8530</a> <br>
-              <strong>Email:</strong> <a href="mailto:info@aazizandco.co.uk"> info@aazizandco.co.uk</a> <br>
+              <strong>Phone:</strong> <a href="tel:{{site.socials.phone}}">{{ site.socials.phone }}</a> <br><strong>Mobile</strong><a href="tel:{{site.socials.whatsapp}}">{{site.socials.whatsapp}}</a> <br>
+              <strong>Email:</strong> <a href="mailto:{{site.email}}"> {{site.email}}</a> <br>
             </p>
             
           </div>
@@ -80,11 +80,13 @@
     </div>
     <div class="footer-info">
       <div class="social-links mt-3">
-        <a href="javascript:;" class="twitter"><i class="bx bxl-twitter"></i></a>
-        <a href="https://www.facebook.com/AAzizandco" class="facebook"><i class="bx bxl-facebook"></i></a>
-        <a href="javascript:;" class="instagram"><i class="bx bxl-instagram"></i></a>
-        <a href="https://g.page/aazizandco?gm" class="google-plus"><i class="bx bxl-skype"></i></a>
-        <a href="javascript:;" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+        {% if site.socials.twitter %}<a href="https://www.twitter.com/{{ site.socials.twitter }}" class="twitter"><i class="bx bxl-twitter"></i></a>{% endif %}
+        {% if site.socials.facebook %}<a href="https://www.facebook.com/{{ site.socials.facebook }}" class="facebook"><i class="bx bxl-facebook"></i></a>{% endif %}
+        {% if site.socials.instagram %}<a href="https://www.instagram.com/{{site.socials.instagram }}" class="instagram"><i class="bx bxl-instagram"></i></a>{% endif %}
+        {% if site.socials.gmb %}<a href="https://g.page/{{ site.socials.gmb | append: "?gm" }}" class="google-plus"><i class="bx bxl-google"></i></a>{% endif %}
+        {% if site.socials.linkedin %}<a href="javascript:;" class="linkedin"><i class="bx bxl-linkedin"></i></a>{% endif %}
+        {% if site.socials.trustpilot %}<a href="javascript:;" class="linkedin"><i class="icofont-star"></i></a>{% endif %}
+        {% if site.socials.skype %}{% endif %}
       </div>
     </div>
     <div class="container">
