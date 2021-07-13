@@ -14,14 +14,11 @@
               <img src="{{ entry.image }}" alt="">
               <h4>{{ entry.name }}</h4>
               <span>{{ entry.designation }}</span>
-              <p>
-                <!-- Magni qui quod omnis unde et eos fuga et exercitationem. Odio veritatis perspiciatis quaerat qui aut aut aut -->
-              </p>
               <div class="social">
-                <a href=""><i class="icofont-twitter"></i></a>
-                <a href=""><i class="icofont-facebook"></i></a>
-                <a href=""><i class="icofont-instagram"></i></a>
-                <a href=""><i class="icofont-linkedin"></i></a>
+                {% if entry.twitter %}<a href="{{entry.twitter}}"><i class="icofont-twitter"></i></a>{% endif %}
+                {% if entry.facebook %}<a href="{{entry.facebook}}"><i class="icofont-facebook"></i></a>{% endif %}
+                {% if entry.instagram %}<a href="{{entry.instagram}}"><i class="icofont-instagram"></i></a>{% endif %}
+                {% if entry.linkedin %}<a href="{{entry.linkedin}}"><i class="icofont-linkedin"></i></a>{% endif %}
               </div>
             </div>
           </div>
