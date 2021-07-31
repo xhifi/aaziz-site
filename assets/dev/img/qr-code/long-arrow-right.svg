@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="320.62299"
+   width="599.97498"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="long-arrow-right.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview12"
+     showgrid="false"
+     inkscape:zoom="0.236"
+     inkscape:cx="-205.50847"
+     inkscape:cy="500"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10" />
+  <metadata
+     id="metadata2">IcoFont Icons<rdf:RDF>
+  <cc:Work
+     rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type
+       rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <dc:title>long-arrow-right</dc:title>
+  </cc:Work>
+</rdf:RDF>
+</metadata>
+  <title
+     id="title4">long-arrow-right</title>
+  <glyph
+     glyph-name="long-arrow-right"
+     unicode=""
+     horiz-adv-x="1000"
+     id="glyph6" />
+  <path
+     d="M 25.899988,197.71149 H 437.89999 v 109.5 c 0,14.3 8.2,17.7 18.3,7.6 l 136.2,-136.2 c 10.1,-10.1 10.1,-26.5 0,-36.6 l -136.2,-136.1999971 c -10.1,-10.1 -18.3,-6.69999998 -18.3,7.6000001 V 122.91149 H 25.899988 c -14.3,0 -25.900000207031,11.6 -25.900000207031,25.9 v 22.9 c 0,14.4 11.600000207031,26 25.900000207031,26 z"
+     id="path8"
+     style="fill:#ffffff"
+     inkscape:connector-curvature="0" />
+</svg>

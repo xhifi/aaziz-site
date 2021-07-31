@@ -251,3 +251,13 @@ height: 100%;
     background: rgb(255,0,0);
     background: linear-gradient(325deg, rgba(196,0,0,1) 0%, rgba(155,0,0,1) 100%);
 }
+
+/* //QR CODE */
+.spacer-any{
+    height: 25px !important;
+}
+@media screen and (max-width: 992px) {
+    .gmap-box{
+        height: 348px;
+    }
+  }
