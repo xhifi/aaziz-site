@@ -34,12 +34,12 @@
   twitter: 
   linkedin: 
 
-- name: Ayesha Mughal
-  image: assets/dev/img/team/ayesha-mughal.png
-  designation: Marketing Executive
-  facebook: 
-  twitter: 
-  linkedin: 
+# - name: Ayesha Mughal
+#   image: assets/dev/img/team/ayesha-mughal.png
+#   designation: Marketing Executive
+#   facebook: 
+#   twitter: 
+#   linkedin: 
 
 - name: Ali Husnain
   image: assets/dev/img/team/ali-hasnain.png
