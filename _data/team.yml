@@ -1,6 +1,6 @@
 
 - name: Ajmal Baig
-  image: assets/dev/img/team/random.png
+  image: assets/dev/img/team/ajmal-baig.png
   designation: Chief Executive Officer
   facebook: 
   twitter: 
@@ -77,7 +77,7 @@
   linkedin: 
   
 - name: Zumer Yasin
-  image: assets/dev/img/team/random.png
+  image: assets/dev/img/team/zumer-yasin.jpg
   designation: Marketing Executive
   facebook: 
   twitter: 
@@ -91,7 +91,7 @@
   linkedin: 
 
 - name: Zainab Batool Fatima
-  image: assets/dev/img/team/random.png
+  image: assets/dev/img/team/zainab-batool-fatima.png
   designation: Assistant Accounts Manager
   facebook: 
   twitter: 
