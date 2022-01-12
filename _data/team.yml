@@ -1,112 +1,111 @@
-
 - name: Ajmal Baig
   image: assets/dev/img/team/ajmal-baig.png
   designation: Director
-  facebook: 
-  twitter: 
-  linkedin: 
+  facebook:
+  twitter:
+  linkedin:
 
 - name: Ali Shan
   image: assets/dev/img/team/ali-shan.png
   designation: Assistant Practice Manager
-  facebook: 
-  twitter: 
-  linkedin: 
+  facebook:
+  twitter:
+  linkedin:
 
 - name: Saba Zaki
   image: assets/dev/img/team/saba-zaki.png
   designation: Line Supervisor
-  facebook: 
-  twitter: 
-  linkedin: 
+  facebook:
+  twitter:
+  linkedin:
 
-- name: Hassam Ali
-  image: assets/dev/img/team/hassam-ali.png
-  designation: Supervisor
-  facebook: 
-  twitter: 
-  linkedin: 
+# - name: Hassam Ali
+#   image: assets/dev/img/team/hassam-ali.png
+#   designation: Supervisor
+#   facebook:
+#   twitter:
+#   linkedin:
 
 - name: Taimoor Azhar
   image: assets/dev/img/team/taimoor.png
   designation: Operations Manager
-  facebook: 
-  twitter: 
-  linkedin: 
+  facebook:
+  twitter:
+  linkedin:
 
 # - name: Ayesha Mughal
 #   image: assets/dev/img/team/ayesha-mughal.png
 #   designation: Marketing Executive
-#   facebook: 
-#   twitter: 
-#   linkedin: 
+#   facebook:
+#   twitter:
+#   linkedin:
 
 # - name: Ali Husnain
 #   image: assets/dev/img/team/ali-hasnain.png
 #   designation: Self Assessment Manager
-#   facebook: 
-#   twitter: 
-#   linkedin: 
+#   facebook:
+#   twitter:
+#   linkedin:
 
 - name: Osama Jamil
   image: assets/dev/img/team/osama-jamil.png
   designation: Payroll Administrator
-  facebook: 
-  twitter: 
-  linkedin: 
+  facebook:
+  twitter:
+  linkedin:
 
 - name: Muhammad Waqas
   image: assets/dev/img/team/muhammad-waqas.jpg
   designation: Accounts Manager
-  facebook: 
-  twitter: 
-  linkedin: 
+  facebook:
+  twitter:
+  linkedin:
 
 - name: Naga Sandhya Yelubolu
   image: assets/dev/img/team/sandhya-naga.png
   designation: Administration Officer
-  facebook: 
-  twitter: 
-  linkedin: 
+  facebook:
+  twitter:
+  linkedin:
 
 - name: Mirza Awais
   image: assets/dev/img/team/random.png
   designation: Marketing Assistant
-  facebook: 
-  twitter: 
-  linkedin: 
-  
+  facebook:
+  twitter:
+  linkedin:
+
 - name: Zumer Yasin
   image: assets/dev/img/team/zumer-yasin.jpg
   designation: Marketing Executive
-  facebook: 
-  twitter: 
-  linkedin: 
+  facebook:
+  twitter:
+  linkedin:
 
 - name: Syed M. Ali Abidi
   image: assets/dev/img/team/random.png
   designation: Self Assessment Assistant
-  facebook: 
-  twitter: 
-  linkedin: 
+  facebook:
+  twitter:
+  linkedin:
 
 - name: Zainab Batool Fatima
   image: assets/dev/img/team/zainab-batool-fatima.png
   designation: Assistant Accounts Manager
-  facebook: 
-  twitter: 
-  linkedin: 
+  facebook:
+  twitter:
+  linkedin:
 
 - name: Izbah Aslam
   image: assets/dev/img/team/izbah-aslam.jpg
   designation: HR Assistant
-  facebook: 
-  twitter: 
-  linkedin: 
+  facebook:
+  twitter:
+  linkedin:
 
 - name: Shifa ur Rehman
   image: assets/dev/img/team/random.png
   designation: IT & Cyber-Security Manager
-  facebook: 
-  twitter: 
-  linkedin: 
+  facebook:
+  twitter:
+  linkedin:
