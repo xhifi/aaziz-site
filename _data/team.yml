@@ -14,7 +14,7 @@
 
 - name: Saba Zaki
   image: assets/dev/img/team/saba-zaki.png
-  designation: Line Supervisor
+  designation: Supervisor
   facebook:
   twitter:
   linkedin:
@@ -77,7 +77,7 @@
 
 - name: Zumer Yasin
   image: assets/dev/img/team/zumer-yasin.jpg
-  designation: Marketing Executive
+  designation: Client Care Officer
   facebook:
   twitter:
   linkedin:
@@ -91,14 +91,35 @@
 
 - name: Zainab Batool Fatima
   image: assets/dev/img/team/zainab-batool-fatima.png
-  designation: Assistant Accounts Manager
+  designation: Junior Accountant
   facebook:
   twitter:
   linkedin:
 
-- name: Izbah Aslam
+- name: Izba Aslam
   image: assets/dev/img/team/izbah-aslam.jpg
   designation: HR Assistant
+  facebook:
+  twitter:
+  linkedin:
+  
+- name: Zahra Akram
+  image: assets/dev/img/team/random.png
+  designation: Admin Officer
+  facebook:
+  twitter:
+  linkedin:
+
+- name: Talha Hanif
+  image: assets/dev/img/team/random.png
+  designation: Marketing Assistant
+  facebook:
+  twitter:
+  linkedin:
+
+- name: Hussain Ahmad
+  image: assets/dev/img/team/random.png
+  designation: Assistant Accountant
   facebook:
   twitter:
   linkedin:
