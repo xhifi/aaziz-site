@@ -54,12 +54,12 @@
   twitter:
   linkedin:
 
-- name: Muhammad Waqas
-  image: assets/dev/img/team/muhammad-waqas.jpg
-  designation: Accounts Manager
-  facebook:
-  twitter:
-  linkedin:
+# - name: Muhammad Waqas
+#   image: assets/dev/img/team/muhammad-waqas.jpg
+#   designation: Accounts Manager
+#   facebook:
+#   twitter:
+#   linkedin:
 
 - name: Naga Sandhya Yelubolu
   image: assets/dev/img/team/sandhya-naga.png
