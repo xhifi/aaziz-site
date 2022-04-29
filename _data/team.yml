@@ -83,7 +83,7 @@
   linkedin:
 
 - name: Syed M. Ali Abidi
-  image: assets/dev/img/team/random.png
+  image: assets/dev/img/team/ali-abdi.jpg
   designation: Self Assessment Assistant
   facebook:
   twitter:
@@ -102,7 +102,7 @@
   facebook:
   twitter:
   linkedin:
-  
+
 - name: Zahra Akram
   image: assets/dev/img/team/random.png
   designation: Admin Officer
@@ -118,7 +118,14 @@
   linkedin:
 
 - name: Hussain Ahmad
-  image: assets/dev/img/team/random.png
+  image: assets/dev/img/team/hussain-ahmad.jpg
+  designation: Assistant Accountant
+  facebook:
+  twitter:
+  linkedin:
+
+- name: Waseem Ghouri
+  image: assets/dev/img/team/waseem-ghouri.jpg
   designation: Assistant Accountant
   facebook:
   twitter:
