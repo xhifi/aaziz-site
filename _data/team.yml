@@ -1,5 +1,4 @@
-- name: Ajmal Baig
-  image: assets/dev/img/team/ajmal-baig.png
+- image: assets/dev/img/team/ajmal-baig.png
   designation: Director
   facebook:
   twitter:
