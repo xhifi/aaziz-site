@@ -4,15 +4,13 @@
   twitter:
   linkedin:
 
-- name: Ali Shan
-  image: assets/dev/img/team/ali-shan.png
+- image: assets/dev/img/team/ali-shan.png
   designation: Assistant Practice Manager
   facebook:
   twitter:
   linkedin:
 
-- name: Saba Zaki
-  image: assets/dev/img/team/saba-zaki.png
+- image: assets/dev/img/team/saba-zaki.png
   designation: Supervisor
   facebook:
   twitter:
@@ -25,8 +23,7 @@
 #   twitter:
 #   linkedin:
 
-- name: Taimoor Azhar
-  image: assets/dev/img/team/taimoor.png
+- image: assets/dev/img/team/taimoor.png
   designation: Operations Manager
   facebook:
   twitter:
@@ -46,8 +43,7 @@
 #   twitter:
 #   linkedin:
 
-- name: Osama Jamil
-  image: assets/dev/img/team/osama-jamil.png
+- image: assets/dev/img/team/osama-jamil.png
   designation: Payroll Administrator
   facebook:
   twitter:
@@ -60,78 +56,67 @@
 #   twitter:
 #   linkedin:
 
-- name: Naga Sandhya Yelubolu
-  image: assets/dev/img/team/sandhya-naga.png
+- image: assets/dev/img/team/sandhya-naga.png
   designation: Administration Officer
   facebook:
   twitter:
   linkedin:
 
-- name: Mirza Awais
-  image: assets/dev/img/team/main/mirza-awais.jpg
+- image: assets/dev/img/team/main/mirza-awais.jpg
   designation: Marketing Assistant
   facebook:
   twitter:
   linkedin:
 
-- name: Zumer Yasin
-  image: assets/dev/img/team/zumer-yasin.jpg
+- image: assets/dev/img/team/zumer-yasin.jpg
   designation: Client Care Officer
   facebook:
   twitter:
   linkedin:
 
-- name: Syed M. Ali Abidi
-  image: assets/dev/img/team/ali-abdi.jpg
+- image: assets/dev/img/team/ali-abdi.jpg
   designation: Self Assessment Assistant
   facebook:
   twitter:
   linkedin:
 
-- name: Zainab Batool Fatima
-  image: assets/dev/img/team/zainab-batool-fatima.png
+- image: assets/dev/img/team/zainab-batool-fatima.png
   designation: Junior Accountant
   facebook:
   twitter:
   linkedin:
 
-- name: Izba Aslam
-  image: assets/dev/img/team/izbah-aslam.jpg
+- image: assets/dev/img/team/izbah-aslam.jpg
   designation: HR Assistant
   facebook:
   twitter:
   linkedin:
 
-- name: Zahra Akram
-  image: assets/dev/img/team/random.png
+- image: assets/dev/img/team/random.png
   designation: Admin Officer
   facebook:
   twitter:
   linkedin:
 
-- name: Talha Hanif
-  image: assets/dev/img/team/talha-hanif.jpg
+- image: assets/dev/img/team/talha-hanif.jpg
   designation: Marketing Assistant
   facebook:
   twitter:
   linkedin:
 
-- name: Hussain Ahmad
-  image: assets/dev/img/team/hussain-ahmad.jpg
+- image: assets/dev/img/team/hussain-ahmad.jpg
   designation: Assistant Accountant
   facebook:
   twitter:
   linkedin:
 
-- name: Waseem Ghouri
-  image: assets/dev/img/team/waseem-ghouri.jpg
+- image: assets/dev/img/team/waseem-ghouri.jpg
   designation: Assistant Accountant
   facebook:
   twitter:
   linkedin:
 
-- name: Shifa ur Rehman
-  image: assets/dev/img/team/random.png
+- image: assets/dev/img/team/random.png
   designation: IT & Cyber-Security Manager
   facebook:
   twitter:
