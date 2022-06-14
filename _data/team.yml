@@ -1,4 +1,5 @@
 - image: assets/dev/img/team/ajmal-baig.png
+  name: Ajmal Baig
   designation: Director
   facebook:
   twitter:
@@ -104,11 +105,11 @@
   twitter:
   linkedin:
 
-- image: assets/dev/img/team/hussain-ahmad.jpg
-  designation: Assistant Accountant
-  facebook:
-  twitter:
-  linkedin:
+# - image: assets/dev/img/team/hussain-ahmad.jpg
+#  designation: Assistant Accountant
+#  facebook:
+#  twitter:
+#  linkedin:
 
 - image: assets/dev/img/team/waseem-ghouri.jpg
   designation: Assistant Accountant
