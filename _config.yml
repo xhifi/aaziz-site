@@ -6,11 +6,12 @@ description: This is official jekyll template for bootstrap 5 by Brianloggers.
 socials:
   phone: +44 203 6599 254
   whatsapp: +44 781 0448 530
+  whatsapp2: +44 739 2438 213
   facebook: AAzizandco
   instagram: aazizandco_uk
   twitter: AazizTax
   gmb: aazizandco
-  youtube: 
+  youtube:
   trustpilot: AAziz
   soundcloud:
   spotify:
@@ -21,7 +22,7 @@ address:
   country: UK,
   post_code: SW16 5NL
 
-baseurl: '' # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: https://xhifi.github.io/aaziz-site/ # the base hostname & protocol for your site
 
 author:
@@ -35,11 +36,11 @@ author:
 markdown: kramdown
 
 exclude:
-- "*.gemspec"
-- LICENSE.md
-- CONTRIBUTING.md
-- README.md 
+  - "*.gemspec"
+  - LICENSE.md
+  - CONTRIBUTING.md
+  - README.md
 
 sass:
   sass_dir: assets/dev/sass
-  style:    compressed
+  style: compressed
