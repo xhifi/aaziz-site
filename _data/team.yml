@@ -6,12 +6,14 @@
   linkedin:
 
 - image: assets/dev/img/team/ali-shan.png
+#  name: Ali Shan
   designation: Assistant Practice Manager
   facebook:
   twitter:
   linkedin:
 
 - image: assets/dev/img/team/saba-zaki.png
+#  name: Saba Zaki
   designation: Supervisor
   facebook:
   twitter:
@@ -25,6 +27,7 @@
 #   linkedin:
 
 - image: assets/dev/img/team/taimoor.png
+#  name: Taimoor Azhar
   designation: Operations Manager
   facebook:
   twitter:
@@ -45,6 +48,7 @@
 #   linkedin:
 
 - image: assets/dev/img/team/osama-jamil.png
+#  name: Osama Jamil
   designation: Payroll Administrator
   facebook:
   twitter:
@@ -57,49 +61,56 @@
 #   twitter:
 #   linkedin:
 
-- image: assets/dev/img/team/sandhya-naga.png
-  designation: Administration Officer
-  facebook:
-  twitter:
-  linkedin:
+#- image: assets/dev/img/team/sandhya-naga.png
+#  designation: Administration Officer
+#  facebook:
+#  twitter:
+#  linkedin:
 
 - image: assets/dev/img/team/main/mirza-awais.jpg
-  designation: Marketing Assistant
+  name: Mirza Awais
+  designation: IT & Marketing Assistant
   facebook:
   twitter:
   linkedin:
 
 - image: assets/dev/img/team/zumer-yasin.jpg
-  designation: Client Care Officer
+#  name: Zumer Yasin
+  designation: Marketing Executive
   facebook:
   twitter:
   linkedin:
 
 - image: assets/dev/img/team/ali-abdi.jpg
-  designation: Self Assessment Assistant
+#  name: Syed M. Ali Abidi
+  designation: Accounts Manager
   facebook:
   twitter:
   linkedin:
 
 - image: assets/dev/img/team/zainab-batool-fatima.png
-  designation: Junior Accountant
+#  name: Zainab Batool Fatima
+  designation: Junior Accounts Manager
   facebook:
   twitter:
   linkedin:
 
 - image: assets/dev/img/team/izbah-aslam.jpg
+#  name: Izba Aslam
   designation: HR Assistant
   facebook:
   twitter:
   linkedin:
 
 - image: assets/dev/img/team/random.png
-  designation: Admin Officer
+  name: Zahra Akram
+  designation: Admin Assistant
   facebook:
   twitter:
   linkedin:
 
 - image: assets/dev/img/team/talha-hanif.jpg
+#  name: Talha Hanif
   designation: Marketing Assistant
   facebook:
   twitter:
@@ -111,8 +122,22 @@
 #  twitter:
 #  linkedin:
 
-- image: assets/dev/img/team/waseem-ghouri.jpg
-  designation: Assistant Accountant
+#- image: assets/dev/img/team/waseem-ghouri.jpg
+#  designation: Assistant Accountant
+#  facebook:
+#  twitter:
+#  linkedin:
+
+- image: assets/dev/img/team/random.png
+#  name: Umer Aijaz
+  designation: Accounts Assistant
+  facebook:
+  twitter:
+  linkedin:
+
+  - image: assets/dev/img/team/random.png
+  name: Mahnoor Mehmood
+  designation: Bookkeeper
   facebook:
   twitter:
   linkedin:
@@ -123,3 +148,4 @@
   facebook:
   twitter:
   linkedin:
+
