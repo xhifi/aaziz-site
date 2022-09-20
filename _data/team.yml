@@ -76,7 +76,7 @@
 
 - image: assets/dev/img/team/zumer-yasin.jpg
 #  name: Zumer Yasin
-  designation: Marketing Executive
+  designation: Client Care Officer
   facebook:
   twitter:
   linkedin:
@@ -109,12 +109,12 @@
   twitter:
   linkedin:
 
-- image: assets/dev/img/team/talha-hanif.jpg
+#- image: assets/dev/img/team/talha-hanif.jpg
 #  name: Talha Hanif
-  designation: Marketing Assistant
-  facebook:
-  twitter:
-  linkedin:
+#  designation: Marketing Assistant
+#  facebook:
+#  twitter:
+#  linkedin:
 
 # - image: assets/dev/img/team/hussain-ahmad.jpg
 #  designation: Assistant Accountant
@@ -136,7 +136,7 @@
   linkedin:
 
   - image: assets/dev/img/team/random.png
-  name: Mahnoor Mehmood
+  name: Mahnoor Bajwa
   designation: Bookkeeper
   facebook:
   twitter:
