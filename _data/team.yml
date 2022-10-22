@@ -81,12 +81,12 @@
   twitter:
   linkedin:
 
-- image: assets/dev/img/team/ali-abdi.jpg
-#  name: Syed M. Ali Abidi
-  designation: Accounts Manager
-  facebook:
-  twitter:
-  linkedin:
+# - image: assets/dev/img/team/ali-abdi.jpg
+#   name: Syed M. Ali Abidi
+#   designation: Accounts Manager
+#   facebook:
+#   twitter:
+#   linkedin:
 
 - image: assets/dev/img/team/zainab-batool-fatima.png
 #  name: Zainab Batool Fatima
