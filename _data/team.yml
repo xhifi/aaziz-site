@@ -12,12 +12,12 @@
   twitter:
   linkedin:
 
-- image: assets/dev/img/team/saba-zaki.png
+#- image: assets/dev/img/team/saba-zaki.png
 #  name: Saba Zaki
-  designation: Supervisor
-  facebook:
-  twitter:
-  linkedin:
+#  designation: Supervisor
+#  facebook:
+#  twitter:
+#  linkedin:
 
 # - name: Hassam Ali
 #   image: assets/dev/img/team/hassam-ali.png
