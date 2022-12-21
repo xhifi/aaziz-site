@@ -47,12 +47,12 @@
 #   twitter:
 #   linkedin:
 
-- image: assets/dev/img/team/osama-jamil.png
+#- image: assets/dev/img/team/osama-jamil.png
 #  name: Osama Jamil
-  designation: Payroll Administrator
-  facebook:
-  twitter:
-  linkedin:
+#  designation: Payroll Administrator
+#  facebook:
+#  twitter:
+#  linkedin:
 
 # - name: Muhammad Waqas
 #   image: assets/dev/img/team/muhammad-waqas.jpg
@@ -67,12 +67,12 @@
 #  twitter:
 #  linkedin:
 
-- image: assets/dev/img/team/main/mirza-awais.jpg
-  name: Mirza Awais
-  designation: IT & Marketing Assistant
-  facebook:
-  twitter:
-  linkedin:
+#- image: assets/dev/img/team/main/mirza-awais.jpg
+#  name: Mirza Awais
+#  designation: IT & Marketing Assistant
+#  facebook:
+#  twitter:
+#  linkedin:
 
 - image: assets/dev/img/team/zumer-yasin.jpg
 #  name: Zumer Yasin
