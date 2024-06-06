@@ -88,15 +88,15 @@
 #   twitter:
 #   linkedin:
 
-- image: assets/dev/img/team/zainab-batool-fatima.png
-#  name: Zainab Batool Fatima
-  designation: Junior Accounts Manager
-  facebook:
-  twitter:
-  linkedin:
+# - image: assets/dev/img/team/zainab-batool-fatima.png
+# #  name: Zainab Batool Fatima
+#   designation: Junior Accounts Manager
+#   facebook:
+#   twitter:
+#   linkedin:
 
 - image: assets/dev/img/team/izbah-aslam.jpg
-#  name: Izba Aslam
+   # name: Izba Aslam
   designation: HR Assistant
   facebook:
   twitter:
@@ -128,16 +128,23 @@
 #  twitter:
 #  linkedin:
 
-- image: assets/dev/img/team/random.png
-#  name: Umer Aijaz
-  designation: Accounts Assistant
-  facebook:
-  twitter:
-  linkedin:
+# - image: assets/dev/img/team/random.png
+# #  name: Umer Aijaz
+#   designation: Accounts Assistant
+#   facebook:
+#   twitter:
+#   linkedin:
 
 - image: assets/dev/img/team/random.png
   name: Shifa ur Rehman
   designation: IT & Cyber-Security Manager
+  facebook:
+  twitter:
+  linkedin:
+
+  - image: assets/dev/img/team/random.png
+  # name: AwaisAhmad
+  designation: IT Assistant
   facebook:
   twitter:
   linkedin:
