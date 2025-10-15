@@ -168,7 +168,7 @@
 #  linkedin:
 
 # - image: assets/dev/img/team/zumer-yasin.jpg
-# #  name: Zumer Yasin
+#   name: Zumer Yasin
 #   designation: Client Care Officer
 #   facebook:
 #   twitter:
@@ -182,7 +182,7 @@
 #   linkedin:
 
 # - image: assets/dev/img/team/zainab-batool-fatima.png
-# #  name: Zainab Batool Fatima
+#   name: Zainab Batool Fatima
 #   designation: Junior Accounts Manager
 #   facebook:
 #   twitter:
@@ -208,7 +208,7 @@
 #  linkedin:
 
 # - image: assets/dev/img/team/random.png
-# #  name: Umer Aijaz
+#   name: Umer Aijaz
 #   designation: Accounts Assistant
 #   facebook:
 #   twitter:
@@ -221,10 +221,10 @@
 #  twitter:
 #  linkedin:
 
-- image: assets/dev/img/team/random.png
+# - image: assets/dev/img/team/random.png
 #  name: AwaisAhmad
-   designation: IT Assistant
-   facebook:
-   twitter:
-   linkedin:
+#   designation: IT Assistant
+#   facebook:
+#   twitter:
+#   linkedin:
 
