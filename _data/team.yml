@@ -221,10 +221,10 @@
 #  twitter:
 #  linkedin:
 
-#  - image: assets/dev/img/team/random.png
-#  # name: AwaisAhmad
-#  designation: IT Assistant
-#  facebook:
-#  twitter:
-#  linkedin:
+- image: assets/dev/img/team/random.png
+#  name: AwaisAhmad
+   designation: IT Assistant
+   facebook:
+   twitter:
+   linkedin:
 
