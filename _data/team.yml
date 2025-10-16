@@ -12,6 +12,20 @@
   twitter:
   linkedin:
 
+#- image: assets/dev/img/team/saba-zaki.png
+#  name: Saba Zaki
+#  designation: Supervisor
+#  facebook:
+#  twitter:
+#  linkedin:
+
+# - name: Hassam Ali
+#   image: assets/dev/img/team/hassam-ali.png
+#   designation: Supervisor
+#   facebook:
+#   twitter:
+#   linkedin:
+
 - image: assets/dev/img/team/taimoor.png
 #  name: Taimoor Azhar
   designation: Operations Manager
@@ -19,93 +33,119 @@
   twitter:
   linkedin:
 
-- image: assets/dev/img/team/accounts-executive.jpg
-   # name: Accounts Executive
-  designation: Accounts Executive
+# - name: Ayesha Mughal
+#   image: assets/dev/img/team/ayesha-mughal.png
+#   designation: Marketing Executive
+#   facebook:
+#   twitter:
+#   linkedin:
+
+# - name: Ali Husnain
+#   image: assets/dev/img/team/ali-hasnain.png
+#   designation: Self Assessment Manager
+#   facebook:
+#   twitter:
+#   linkedin:
+
+#- image: assets/dev/img/team/osama-jamil.png
+#  name: Osama Jamil
+#  designation: Payroll Administrator
+#  facebook:
+#  twitter:
+#  linkedin:
+
+# - name: Muhammad Waqas
+#   image: assets/dev/img/team/muhammad-waqas.jpg
+#   designation: Accounts Manager
+#   facebook:
+#   twitter:
+#   linkedin:
+
+#- image: assets/dev/img/team/sandhya-naga.png
+#  designation: Administration Officer
+#  facebook:
+#  twitter:
+#  linkedin:
+
+#- image: assets/dev/img/team/main/mirza-awais.jpg
+#  name: Mirza Awais
+#  designation: IT & Marketing Assistant
+#  facebook:
+#  twitter:
+#  linkedin:
+
+# - image: assets/dev/img/team/zumer-yasin.jpg
+# #  name: Zumer Yasin
+#   designation: Client Care Officer
+#   facebook:
+#   twitter:
+#   linkedin:
+
+# - image: assets/dev/img/team/ali-abdi.jpg
+#   name: Syed M. Ali Abidi
+#   designation: Accounts Manager
+#   facebook:
+#   twitter:
+#   linkedin:
+
+# - image: assets/dev/img/team/zainab-batool-fatima.png
+# #  name: Zainab Batool Fatima
+#   designation: Junior Accounts Manager
+#   facebook:
+#   twitter:
+#   linkedin:
+
+- image: assets/dev/img/team/izbah-aslam.jpg
+   # name: Izba Aslam
+  designation: HR Assistant
   facebook:
   twitter:
   linkedin:
 
-- image: assets/dev/img/team/senior-accounts-manager.jpg
-  # name: Senior Accounts Manager
-  designation: Senior Accounts Manager
+- image: assets/dev/img/team/random.png
+  name: Zahra Akram
+  designation: Admin Assistant
   facebook:
   twitter:
   linkedin:
-  
-- image: assets/dev/img/team/boota.jpg
-  # name: M. Boota
+
+#- image: assets/dev/img/team/talha-hanif.jpg
+#  name: Talha Hanif
+#  designation: Marketing Assistant
+#  facebook:
+#  twitter:
+#  linkedin:
+
+# - image: assets/dev/img/team/hussain-ahmad.jpg
+#  designation: Assistant Accountant
+#  facebook:
+#  twitter:
+#  linkedin:
+
+#- image: assets/dev/img/team/waseem-ghouri.jpg
+#  designation: Assistant Accountant
+#  facebook:
+#  twitter:
+#  linkedin:
+
+# - image: assets/dev/img/team/random.png
+# #  name: Umer Aijaz
+#   designation: Accounts Assistant
+#   facebook:
+#   twitter:
+#   linkedin:
+
+- image: assets/dev/img/team/random.png
+  name: Shifa ur Rehman
   designation: IT & Cyber-Security Manager
   facebook:
   twitter:
-  linkedin:  
-
-- image: assets/dev/img/team/hr-manager.jpg
-  # name: HR Manager
-  designation: HR Manager
-  facebook:
-  twitter:
   linkedin:
 
-- image: assets/dev/img/team/cmd-executive.jpg
-  # name: CMD Executive
-  designation: CMD Executive
-  facebook:
-  twitter:
-  linkedin:
-  
-- image: assets/dev/img/team/marketing-assistant.jpg
-  # name: Marketing Assistant
-  designation: Marketing Assistant
+  - image: assets/dev/img/team/random.png
+  # name: AwaisAhmad
+  designation: IT Assistant
   facebook:
   twitter:
   linkedin:
 
-- image: assets/dev/img/team/cma.jpg
-  # name: Client Management Associate
-  designation: Client Management Associate
-  facebook:
-  twitter:
-  linkedin:
-
-- image: assets/dev/img/team/junior-accounts-manager.jpg
-  # name: Junior Accounts Manager
-  designation: Junior Accounts Manager
-  facebook:
-  twitter:
-  linkedin:
-  
- - image: assets/dev/img/team/junior-accounts-manager2.jpg
-  # name: Junior Accounts Manager
-  designation: Junior Accounts Manager
-  facebook:
-  twitter:
-  linkedin:        
-
-- image: assets/dev/img/team/pAAA.jpg
-  # name: Payroll Administrator/Accounts Assistant
-  designation: Payroll Administrator/Accounts Assistant
-  facebook:
-  twitter:
-  linkedin:
-
-- image: assets/dev/img/team/bookkeeper-junior-accountant.jpg
-  # name: BookKeeper/Junior Accountant
-  designation: BookKeeper/Junior Accountant
-  facebook:
-  twitter:
-  linkedin:
- 
-- image: assets/dev/img/team/accounts-assistant2.jpg
-  # name: Accounts Assistant
-  designation: Accounts Assistant
-  facebook:
-  twitter:
-  linkedin:
- 
-- image: assets/dev/img/team/accounts-assistant3.jpg
-  # name: Accounts Assistant
-  designation: Accounts Assistant
-  facebook:
-  twitter:
-  linkedin:
