@@ -118,7 +118,7 @@
 #  twitter:
 #  linkedin:
 
-# - name: Hassam Ali
+#-  name: Hassam Ali
 #   image: assets/dev/img/team/hassam-ali.png
 #   designation: Supervisor
 #   facebook:
@@ -126,14 +126,14 @@
 #   linkedin:
 
 
-# - name: Ayesha Mughal
+#-  name: Ayesha Mughal
 #   image: assets/dev/img/team/ayesha-mughal.png
 #   designation: Marketing Executive
 #   facebook:
 #   twitter:
 #   linkedin:
 
-# - name: Ali Husnain
+#-  name: Ali Husnain
 #   image: assets/dev/img/team/ali-hasnain.png
 #   designation: Self Assessment Manager
 #   facebook:
@@ -147,12 +147,12 @@
 #  twitter:
 #  linkedin:
 
-# - name: Muhammad Waqas
-#   image: assets/dev/img/team/muhammad-waqas.jpg
-#   designation: Accounts Manager
-#   facebook:
-#   twitter:
-#   linkedin:
+#- name: Muhammad Waqas
+#  image: assets/dev/img/team/muhammad-waqas.jpg
+#  designation: Accounts Manager
+#  facebook:
+#  twitter:
+#  linkedin:
 
 #- image: assets/dev/img/team/sandhya-naga.png
 #  designation: Administration Officer
@@ -167,26 +167,26 @@
 #  twitter:
 #  linkedin:
 
-# - image: assets/dev/img/team/zumer-yasin.jpg
-#   name: Zumer Yasin
-#   designation: Client Care Officer
-#   facebook:
-#   twitter:
-#   linkedin:
+#- image: assets/dev/img/team/zumer-yasin.jpg
+#  name: Zumer Yasin
+#  designation: Client Care Officer
+#  facebook:
+#  twitter:
+#  linkedin:
 
-# - image: assets/dev/img/team/ali-abdi.jpg
-#   name: Syed M. Ali Abidi
-#   designation: Accounts Manager
-#   facebook:
-#   twitter:
-#   linkedin:
+#  image: assets/dev/img/team/ali-abdi.jpg
+#  name: Syed M. Ali Abidi
+#  designation: Accounts Manager
+#  facebook:
+#  twitter:
+#  linkedin:
 
-# - image: assets/dev/img/team/zainab-batool-fatima.png
-#   name: Zainab Batool Fatima
-#   designation: Junior Accounts Manager
-#   facebook:
-#   twitter:
-#   linkedin:
+#- image: assets/dev/img/team/zainab-batool-fatima.png
+#  name: Zainab Batool Fatima
+#  designation: Junior Accounts Manager
+#  facebook:
+#  twitter:
+#  linkedin:
 
 #- image: assets/dev/img/team/talha-hanif.jpg
 #  name: Talha Hanif
@@ -195,7 +195,7 @@
 #  twitter:
 #  linkedin:
 
-# - image: assets/dev/img/team/hussain-ahmad.jpg
+#  image: assets/dev/img/team/hussain-ahmad.jpg
 #  designation: Assistant Accountant
 #  facebook:
 #  twitter:
@@ -207,24 +207,24 @@
 #  twitter:
 #  linkedin:
 
-# - image: assets/dev/img/team/random.png
-#   name: Umer Aijaz
-#   designation: Accounts Assistant
-#   facebook:
-#   twitter:
-#   linkedin:
+#- image: assets/dev/img/team/random.png
+#  name: Umer Aijaz
+#  designation: Accounts Assistant
+#  facebook:
+#  twitter:
+#  linkedin:
 
-# - image: assets/dev/img/team/random.png
+#- image: assets/dev/img/team/random.png
 #  name: Shifa ur Rehman
 #  designation: IT & Cyber-Security Manager
 #  facebook:
 #  twitter:
 #  linkedin:
 
-# - image: assets/dev/img/team/random.png
+#- image: assets/dev/img/team/random.png
 #  name: AwaisAhmad
-#   designation: IT Assistant
-#   facebook:
-#   twitter:
-#   linkedin:
+#  designation: IT Assistant
+#  facebook:
+#  twitter:
+#  linkedin:
 
