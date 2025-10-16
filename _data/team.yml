@@ -12,23 +12,100 @@
   twitter:
   linkedin:
 
-#- image: assets/dev/img/team/saba-zaki.png
-#  name: Saba Zaki
-#  designation: Supervisor
-#  facebook:
-#  twitter:
-#  linkedin:
-
-# - name: Hassam Ali
-#   image: assets/dev/img/team/hassam-ali.png
-#   designation: Supervisor
-#   facebook:
-#   twitter:
-#   linkedin:
-
 - image: assets/dev/img/team/taimoor.png
 #  name: Taimoor Azhar
   designation: Operations Manager
+  facebook:
+  twitter:
+  linkedin:
+
+- image: assets/dev/img/team/accounts-executive.jpg
+#  name: Name 1
+  designation: Accounts Executive
+  facebook:
+  twitter:
+  linkedin:
+
+- image: assets/dev/img/team/senior-accounts-manager.jpg
+#  name: Name 2
+  designation: Senior Accounts Manager
+  facebook:
+  twitter:
+  linkedin:
+
+- image: assets/dev/img/team/boota.jpg
+#  name: M Boota
+  designation: IT Manager
+  facebook:
+  twitter:
+  linkedin:
+
+- image: assets/dev/img/team/hr-manager.jpg
+#  name: Name 3
+  designation: HR Manager
+  facebook:
+  twitter:
+  linkedin:
+
+- image: assets/dev/img/team/cmd-executive.jpg
+#  name: Name 4
+  designation: CMD Executive
+  facebook:
+  twitter:
+  linkedin:
+
+- image: assets/dev/img/team/marketing-assistant.jpg
+#  name: Name 5
+  designation: Marketing Assistant
+  facebook:
+  twitter:
+  linkedin:
+
+- image: assets/dev/img/team/cma.jpg
+#  name: Name 6
+  designation: Client Management Associate
+  facebook:
+  twitter:
+  linkedin:
+
+- image: assets/dev/img/team/junior-accounts-manager.jpg
+#  name: Name 7
+  designation: Junior Accounts Manager
+  facebook:
+  twitter:
+  linkedin:
+
+- image: assets/dev/img/team/junior-accounts-manager2.jpg
+#  name: Name 8
+  designation: Junior Accounts Manager
+  facebook:
+  twitter:
+  linkedin:
+
+- image: assets/dev/img/team/pAAA.jpg
+#  name: Name 9
+  designation: Payroll Administrator/Accounts Assistant
+  facebook:
+  twitter:
+  linkedin:
+
+- image: assets/dev/img/team/bookkeeper-junior-accountant.jpg
+#  name: Name 10
+  designation: BookKeeper/Junior Accountant
+  facebook:
+  twitter:
+  linkedin:
+
+- image: assets/dev/img/team/accounts-assistant2.jpg
+#  name: Name 11
+  designation: Accounts Assistant
+  facebook:
+  twitter:
+  linkedin:
+
+- image: assets/dev/img/team/accounts-assistant3.jpg
+#  name: Name 13
+  designation: Accounts Assistant
   facebook:
   twitter:
   linkedin:
