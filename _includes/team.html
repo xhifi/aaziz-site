@@ -8,7 +8,7 @@
       </div>
 
       <div class="row">
-          {% for entry in site.data.team %}
+          {% for entry in site.data.team limit:16 %}
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member">
               <img src="{{ entry.image }}" alt="">
